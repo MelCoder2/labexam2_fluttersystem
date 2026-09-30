@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522933902517",
+    "project_id": "cabutelabexamfirebase",
+    "storage_bucket": "cabutelabexamfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522933902517:android:da7d5aa43b298ae93a72fc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_lab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvjxLO3sb46qlyZSwW2D8IT0HKO2M3sT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522933902517:android:1cd05234c7674b313a72fc",
+        "android_client_info": {
+          "package_name": "com.example.labexam2_cabute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvjxLO3sb46qlyZSwW2D8IT0HKO2M3sT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
